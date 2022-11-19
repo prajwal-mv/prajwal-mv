@@ -1,10 +1,3 @@
-# 👋 Hi, I’m Prajwal M V
-- 👀 I’m a Passionate Data Science Enthusiast 
-- 🌱 I’m currently learning ML engineering
-- 💞️ I’m looking to collaborate on projects of deep learning
-- 📫 How to reach me : prajwalpraju786@gmail.com
-
-
 
 <!---
 prajwal-mv/prajwal-mv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **ML Engineering**
 
-- 👨‍💻 All of my projects are available at [prajwal-mv.github.io](prajwal-mv.github.io)
+- 👨‍💻 All of my projects are available at https://github.com/prajwal-mv
 
-- 📝 I regularly write articles on [Used Cases of ML](Used Cases of ML)
+- 📝 I regularly write articles on **Use Cases of ML**
 
 - 💬 Ask me about **Machine learning models**
 
